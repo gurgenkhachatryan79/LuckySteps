@@ -1,0 +1,16 @@
+C:\Users\Toshiba\Desktop\Steps\LuckySteps(Gurgen)\LuckySteps(Gurgen)\bin\Debug\net5.0\LuckySteps(Gurgen).exe
+C:\Users\Toshiba\Desktop\Steps\LuckySteps(Gurgen)\LuckySteps(Gurgen)\bin\Debug\net5.0\LuckySteps(Gurgen).deps.json
+C:\Users\Toshiba\Desktop\Steps\LuckySteps(Gurgen)\LuckySteps(Gurgen)\bin\Debug\net5.0\LuckySteps(Gurgen).runtimeconfig.json
+C:\Users\Toshiba\Desktop\Steps\LuckySteps(Gurgen)\LuckySteps(Gurgen)\bin\Debug\net5.0\LuckySteps(Gurgen).runtimeconfig.dev.json
+C:\Users\Toshiba\Desktop\Steps\LuckySteps(Gurgen)\LuckySteps(Gurgen)\bin\Debug\net5.0\LuckySteps(Gurgen).dll
+C:\Users\Toshiba\Desktop\Steps\LuckySteps(Gurgen)\LuckySteps(Gurgen)\bin\Debug\net5.0\ref\LuckySteps(Gurgen).dll
+C:\Users\Toshiba\Desktop\Steps\LuckySteps(Gurgen)\LuckySteps(Gurgen)\bin\Debug\net5.0\LuckySteps(Gurgen).pdb
+C:\Users\Toshiba\Desktop\Steps\LuckySteps(Gurgen)\LuckySteps(Gurgen)\obj\Debug\net5.0\LuckySteps(Gurgen).csproj.AssemblyReference.cache
+C:\Users\Toshiba\Desktop\Steps\LuckySteps(Gurgen)\LuckySteps(Gurgen)\obj\Debug\net5.0\LuckySteps(Gurgen).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\Desktop\Steps\LuckySteps(Gurgen)\LuckySteps(Gurgen)\obj\Debug\net5.0\LuckySteps(Gurgen).AssemblyInfoInputs.cache
+C:\Users\Toshiba\Desktop\Steps\LuckySteps(Gurgen)\LuckySteps(Gurgen)\obj\Debug\net5.0\LuckySteps(Gurgen).AssemblyInfo.cs
+C:\Users\Toshiba\Desktop\Steps\LuckySteps(Gurgen)\LuckySteps(Gurgen)\obj\Debug\net5.0\LuckySteps(Gurgen).csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\Steps\LuckySteps(Gurgen)\LuckySteps(Gurgen)\obj\Debug\net5.0\LuckySteps(Gurgen).dll
+C:\Users\Toshiba\Desktop\Steps\LuckySteps(Gurgen)\LuckySteps(Gurgen)\obj\Debug\net5.0\ref\LuckySteps(Gurgen).dll
+C:\Users\Toshiba\Desktop\Steps\LuckySteps(Gurgen)\LuckySteps(Gurgen)\obj\Debug\net5.0\LuckySteps(Gurgen).pdb
+C:\Users\Toshiba\Desktop\Steps\LuckySteps(Gurgen)\LuckySteps(Gurgen)\obj\Debug\net5.0\LuckySteps(Gurgen).genruntimeconfig.cache
